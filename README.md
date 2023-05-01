@@ -16,9 +16,9 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 ## Findings
 - Average Trip Duration by Birth Year from 1899-1997 seems to have been at its highest from the late 1930s to the early 1950s and was generally on the decline for the last 40 years of data collection, with the exception of 1995 where it hit its peak. 
-<img src="/images/avg_duration_by_birthyear">
+<img src="https://github.com/mshawn12/citi-bike-viz/blob/main/images/avg_duration_by_birthyear.png?raw=true">
 - On average, the data shows that females have longer trip durations than males
-<img src="/images/avg_duration_by_gender">
+<img src="https://github.com/mshawn12/citi-bike-viz/blob/main/images/avg_duration_by_gender.png?raw=true">
 
 ## Instructions
 
